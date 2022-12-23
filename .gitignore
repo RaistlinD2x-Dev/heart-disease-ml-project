@@ -1,0 +1,2 @@
+# Ignores all project dependencies, use environment.yml to deploy
+/env

@@ -1,0 +1,9 @@
+name: heart_disease_ml_project
+
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - seaborn
